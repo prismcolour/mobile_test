@@ -1,0 +1,26 @@
+.dropdown-content li:hover, .dropdown-content li.active, .dropdown-content li.selected {
+  background-color: #eee; }
+.dropdown-content li.active.selected {
+  background-color: #e1e1e1; }
+.dropdown-content li.divider {
+  min-height: 0;
+  height: 1px; }
+.dropdown-content li > a, .dropdown-content li > span {
+  font-size: 16px;
+  color: black;
+  display: block;
+  line-height: 22px;
+  padding: 14px 16px; }
+
+.page-footer {
+  margin-top: 0;
+  padding-top: 0;
+
+}
+
+.footer-copyright {
+	overflow: hidden;
+	height: 50px;
+	line-height: 50px;
+	}
+
